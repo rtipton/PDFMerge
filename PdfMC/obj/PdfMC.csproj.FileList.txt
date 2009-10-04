@@ -1,0 +1,12 @@
+obj\Debug\PdfMC.exe
+obj\Debug\PdfMC.pdb
+bin\Debug\PdfMC.exe
+bin\Debug\PdfMC.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PdfMC.frmMrgCpy.resources
+obj\Debug\PdfMC.csproj.GenerateResource.Cache
+bin\Release\PdfMC.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PdfMC.frmMrgCpy.resources
+obj\Release\PdfMC.csproj.GenerateResource.Cache
+obj\Release\PdfMC.exe
